@@ -1,0 +1,8 @@
+{
+    "_config_name": "taxonomy.vocabulary.affiliation",
+    "name": "Affiliation",
+    "machine_name": "affiliation",
+    "description": "Types of people on this website",
+    "hierarchy": "0",
+    "weight": "0"
+}

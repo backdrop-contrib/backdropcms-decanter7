@@ -1,0 +1,3 @@
+/			Home
+/events			Events
+/events/past-events	Past Events

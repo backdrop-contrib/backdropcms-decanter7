@@ -1,16 +1,16 @@
 {
-    "_config_name": "node.type.person",
-    "type": "person",
-    "name": "Person",
+    "_config_name": "node.type.event",
+    "type": "event",
+    "name": "Event",
     "base": "node_content",
     "module": "node",
-    "description": "The person content type maintains information about a person. A person can be staff, faculty, student, and alumni.",
-    "help": "This form captures information about a person. First and last name are required.",
+    "description": "A (usually) future event with time and location (virtual or physical).",
+    "help": "",
     "has_title": true,
-    "title_label": "Display Name",
+    "title_label": "Event Name",
     "modified": true,
     "disabled": false,
-    "orig_type": "person",
+    "orig_type": "event",
     "settings": {
         "status_default": 1,
         "sticky_enabled": true,
@@ -30,7 +30,7 @@
         "node_submitted_format": "[node:created:medium] by [node:author]",
         "hidden_path": "0",
         "node_permissions": true,
-        "comment_default": 2
+        "comment_default": 1
     },
     "node_preview": 1
 }
